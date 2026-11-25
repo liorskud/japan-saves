@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Japan" />
+  <meta name="theme-color" content="#f4efe4" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#10141c" media="(prefers-color-scheme: dark)" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="./icon-180.png" />
+  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+  <title>Japan · Saved places</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" />
+</head>
+<body>
+  <div id="app">
+    <section id="view-map" class="view active" aria-label="Map">
+      <div id="map" role="application" aria-label="Map of saved places"></div>
+      <div class="map-top">
+        <div class="searchbar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <input id="q" type="search" placeholder="Search places, dishes, areas…" autocomplete="off" aria-label="Search" />
+          <button id="filterBtn" class="filter-btn" aria-label="Filters">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>
+            <span id="filterCount" class="badge" hidden></span>
+          </button>
+        </div>
+        <div id="catChips" class="chips" aria-label="Categories"></div>
+      </div>
+      <div class="map-fab">
+        <button id="locate" aria-label="Show my location"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg></button>
+        <button id="fit" aria-label="Show all places"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+      </div>
+    </section>
+
+    <section id="view-list" class="view" aria-label="List"><div class="page"><h1>Places</h1><p class="lede" id="listLede"></p><div id="list"></div></div></section>
+    <section id="view-guides" class="view" aria-label="Guides"><div class="page" id="guides"></div></section>
+    <section id="view-settings" class="view" aria-label="Settings"><div class="page" id="settings"></div></section>
+  </div>
+
+  <nav class="tabbar" aria-label="Sections">
+    <button data-view="map" aria-current="page"><svg viewBox="0 0 24 24"><path d="M9 4l-5 2v14l5-2 6 2 5-2V4l-5 2z M9 4v14M15 6v14"/></svg><span>Map</span></button>
+    <button data-view="list"><svg viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12M4 6h.01M4 12h.01M4 18h.01"/></svg><span>List</span><i class="dot" id="reviewDot" hidden></i></button>
+    <button data-view="guides"><svg viewBox="0 0 24 24"><path d="M4 5a2 2 0 012-2h13v16H6a2 2 0 00-2 2z M4 19V5"/></svg><span>Guides</span></button>
+    <button data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.3 1.8l.1.1a2 2 0 11-2.8 2.8l-.1-.1a1.7 1.7 0 00-1.8-.3 1.7 1.7 0 00-1 1.5V21a2 2 0 01-4 0v-.1a1.7 1.7 0 00-1.1-1.5 1.7 1.7 0 00-1.8.3l-.1.1a2 2 0 11-2.8-2.8l.1-.1a1.7 1.7 0 00.3-1.8 1.7 1.7 0 00-1.5-1H3a2 2 0 010-4h.1a1.7 1.7 0 001.5-1.1 1.7 1.7 0 00-.3-1.8l-.1-.1a2 2 0 112.8-2.8l.1.1a1.7 1.7 0 001.8.3H9a1.7 1.7 0 001-1.5V3a2 2 0 014 0v.1a1.7 1.7 0 001 1.5 1.7 1.7 0 001.8-.3l.1-.1a2 2 0 112.8 2.8l-.1.1a1.7 1.7 0 00-.3 1.8V9a1.7 1.7 0 001.5 1H21a2 2 0 010 4h-.1a1.7 1.7 0 00-1.5 1z"/></svg><span>Settings</span></button>
+  </nav>
+
+  <div id="scrim" class="scrim"></div>
+  <section id="sheet" class="sheet" role="dialog" aria-modal="true" aria-labelledby="shTitle" tabindex="-1"><div class="grab"></div><button class="x" id="sheetX" aria-label="Close">✕</button><div id="sheetBody"></div></section>
+  <div id="toast" class="toast" role="status"></div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

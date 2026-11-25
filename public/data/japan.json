@@ -1,0 +1,2068 @@
+{
+ "updated": "2026-11-26",
+ "priceScale": {
+  "1": "under ¥1,500",
+  "2": "¥1,500–4,000",
+  "3": "¥4,000–10,000",
+  "4": "¥10,000–25,000",
+  "5": "over ¥25,000"
+ },
+ "places": [
+  {
+   "id": "age3-asakusa",
+   "cat": "food",
+   "sym": "🥪",
+   "name": "Age.3 Asakusa",
+   "order": "Fried cream sando (whipped cream or crème brûlée)",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Asakusa",
+   "lat": 35.7146,
+   "lng": 139.7955,
+   "hours": "10:00–19:00",
+   "days": "Open daily",
+   "arrive": "10:00 at opening, or mid-afternoon to skip the line",
+   "booking": "no",
+   "time": "20–30 min",
+   "notes": "Each sando is fried to order. Whipped cream from about ¥400.",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "2-7-22 Asakusa, Taito-ku, Tokyo",
+   "addressJa": "東京都台東区浅草2-7-22",
+   "yen": [
+    400,
+    900
+   ],
+   "arriveBasis": "estimate",
+   "about": "Tiny stand frying brioche sandwiches filled with whipped cream or custard – crisp outside, cold cream inside. Takeaway snack, eat on the street nearby.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": []
+  },
+  {
+   "id": "ohno-kamakura",
+   "cat": "food",
+   "sym": "🥩",
+   "name": "Wagyu Don Ohno (Roast Beef Ohno) Kamakura",
+   "order": "Kuroge wagyu roast beef bowl",
+   "price": 2,
+   "city": "Kamakura",
+   "area": "Komachi-dori, near Kamakura Station",
+   "lat": 35.3201,
+   "lng": 139.5527,
+   "hours": "Lunch from about 11:00 (check before going)",
+   "days": "Check before going",
+   "arrive": "11:00 for lunch – pairs with a Kamakura day trip",
+   "booking": "recommended",
+   "time": "30–45 min",
+   "notes": "Day trip from Tokyo (about 1 h by JR Yokosuka Line).",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "2-2-16 Komachi, Kamakura, Kanagawa",
+   "addressJa": "神奈川県鎌倉市小町2-2-16",
+   "yen": [
+    2000,
+    4000
+   ],
+   "bookingHow": "TableCheck (search \"Roast Beef Ohno Kamakura\")",
+   "arriveBasis": "estimate",
+   "about": "Rare roast-beef bowl piled high with thin wagyu slices and a raw yolk, on Komachi-dori shopping street by Kamakura Station. Easy lunch on a Kamakura day trip.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Komachi_Dori-Kamakura.jpg/960px-Komachi_Dori-Kamakura.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Komachi_Dori-Kamakura.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Komachi_Dori-Kamakura.jpg",
+     "credit": "Urashimataro",
+     "license": "Public domain",
+     "kind": "area"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Komachi-dori_%40_Kamakura_%289399492611%29.jpg/960px-Komachi-dori_%40_Kamakura_%289399492611%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Komachi-dori_%40_Kamakura_%289399492611%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Komachi-dori_@_Kamakura_(9399492611).jpg",
+     "credit": "Guilhem Vellut from Annecy, France",
+     "license": "CC BY 2.0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "ramen-mozu",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "RAMEN Mozu",
+   "order": "Chicken shio (salt) ramen",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Akasaka – Akasaka Biz Tower B1F",
+   "lat": 35.6727,
+   "lng": 139.7365,
+   "hours": "11:00–23:00 (L.O. 22:30)",
+   "days": "Follows Biz Tower opening days",
+   "arrive": "Off-peak: 14:00–17:00",
+   "booking": "no",
+   "time": "30 min",
+   "notes": "Directly connected to Akasaka Station (Chiyoda Line). Counter only.",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Akasaka Biz Tower B1F, 5-3-1 Akasaka, Minato-ku, Tokyo",
+   "addressJa": "東京都港区赤坂5-3-1 赤坂Bizタワー B1F",
+   "yen": [
+    1100,
+    1600
+   ],
+   "arriveBasis": "opening",
+   "about": "Clear, light chicken-salt ramen in an office-tower basement food floor – quick counter meal, good near Akasaka hotels.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Akasaka-Biz-Tower-01.jpg/960px-Akasaka-Biz-Tower-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Akasaka-Biz-Tower-01.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Akasaka-Biz-Tower-01.jpg",
+     "credit": "Rs1421",
+     "license": "CC BY-SA 3.0",
+     "kind": "area"
+    },
+    {
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Akasaka_Biz_Tower_%E8%B5%A4%E5%9D%82%E3%83%93%E3%82%BA%E3%82%BF%E3%83%AF%E3%83%BC.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Akasaka_Biz_Tower_%E8%B5%A4%E5%9D%82%E3%83%93%E3%82%BA%E3%82%BF%E3%83%AF%E3%83%BC.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Akasaka_Biz_Tower_%E8%B5%A4%E5%9D%82%E3%83%93%E3%82%BA%E3%82%BF%E3%83%AF%E3%83%BC.jpg",
+     "credit": "Nakazakiyoshie1983",
+     "license": "CC BY-SA 4.0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "sushi-yoshikawa",
+   "cat": "food",
+   "sym": "🍣",
+   "name": "Sushi Yoshikawa",
+   "order": "Dragon Ball roll (fatty tuna + uni)",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Azabu-Juban (post says Roppongi)",
+   "lat": 35.656,
+   "lng": 139.7366,
+   "hours": "Dinner course – check booking page",
+   "days": "Check before going",
+   "arrive": "Your booked course time",
+   "booking": "required",
+   "time": "2 h",
+   "notes": "The post says Roppongi; the branch serving the Dragon Ball roll that I could confirm is in Azabu-Juban (next to Roppongi). Confirm the branch when booking.",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "estimate",
+   "approx": true,
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Azabu-Juban, Minato-ku, Tokyo (confirm branch when booking)",
+   "yen": [
+    12000,
+    20000
+   ],
+   "bookingHow": "Online booking (Omakase / restaurant site)",
+   "arriveBasis": "post",
+   "about": "Creative sushi counter known for the \"Dragon Ball\" roll – fatty tuna and sea urchin rolled into a sphere. Course-only dinner.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": []
+  },
+  {
+   "id": "marushichi-ginza",
+   "cat": "food",
+   "sym": "🍱",
+   "name": "Tonkatsu Marushichi",
+   "order": "Rib-loin katsudon (\"thickest in Japan\")",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Ginza (also Monzen-Nakacho main shop)",
+   "lat": 35.6717,
+   "lng": 139.765,
+   "hours": "Main shop: 11:00–14:00 and 17:00–20:00",
+   "days": "Check before going",
+   "arrive": "11:00 at opening",
+   "booking": "no",
+   "time": "30 min",
+   "notes": "Cash or PayPay at the main shop. Exact Ginza address not confirmed – pin is approximate; the Monzen-Nakacho main shop is the safe bet.",
+   "ig": [
+    "DfYCj-ezQ6F",
+    "DNz4wwY4uF7"
+   ],
+   "conf": "estimate",
+   "approx": true,
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "yen": [
+    1500,
+    2500
+   ],
+   "arriveBasis": "opening",
+   "diet": {
+    "pork": true
+   },
+   "about": "Huge, thick pork-cutlet rice bowl simmered in egg and dashi – a heavy, old-school lunch. Pork only.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Katsudon_001.jpg/960px-Katsudon_001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Katsudon_001.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Katsudon_001.jpg",
+     "credit": "Ocdp",
+     "license": "CC0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "kitan-hibiki",
+   "cat": "food",
+   "sym": "🍔",
+   "name": "KITAN HIBIKI",
+   "order": "Crispy Potato Wagyu Burger (dry-aged wagyu)",
+   "price": 3,
+   "city": "Osaka",
+   "area": "Namba / Dotonbori – 1-1-7 Namba",
+   "lat": 34.6683,
+   "lng": 135.5037,
+   "hours": "Burgers served at lunch; evening is a dry-aged steak restaurant",
+   "days": "Check before going",
+   "arrive": "Lunch",
+   "booking": "recommended",
+   "time": "1 h",
+   "notes": "About 5 min walk from Namba Station. Evening steak course runs ¥8,000–10,000.",
+   "ig": [
+    "Df5T_67psX-"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "1-1-7 Namba, Chuo-ku, Osaka",
+   "addressJa": "大阪府大阪市中央区難波1-1-7",
+   "yen": [
+    3000,
+    5000
+   ],
+   "bookingHow": "Seat reservation on the restaurant's booking page",
+   "arriveBasis": "post",
+   "about": "Dry-aged wagyu burger with a crispy potato layer, near Dotonbori. Evenings it turns into a steak restaurant.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Osaka_Dotonbori_Canal.jpg/960px-Osaka_Dotonbori_Canal.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Osaka_Dotonbori_Canal.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_Canal.jpg",
+     "credit": "32linesky",
+     "license": "CC BY-SA 4.0",
+     "kind": "area"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Osaka_Dotonbori_yoru.jpg/960px-Osaka_Dotonbori_yoru.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Osaka_Dotonbori_yoru.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_yoru.jpg",
+     "credit": "Sakai Yayoi",
+     "license": "CC0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "labysse-osaka",
+   "cat": "food",
+   "sym": "🍣",
+   "name": "Sushi L'Abysse Osaka",
+   "order": "Omakase – go for the 17:30 sunset seating",
+   "price": 5,
+   "city": "Osaka",
+   "area": "Four Seasons Hotel Osaka, 37F",
+   "lat": 34.6959,
+   "lng": 135.4936,
+   "hours": "Dinner seatings; sunset seating 17:30",
+   "days": "Check before going",
+   "arrive": "17:30 sunset seating (¥26,600 vs ¥38,000 later)",
+   "booking": "required",
+   "time": "2–2.5 h",
+   "notes": "Yannick Alléno's sushi counter. Not kosher; no-pork / no-shellfish adjustments only if requested when booking. Drinks extra.",
+   "ig": [
+    "DfSLBKHzBwb"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Four Seasons Hotel Osaka 37F, Dojima 2-chome, Kita-ku, Osaka",
+   "addressJa": "大阪府大阪市北区堂島2丁目 フォーシーズンズホテル大阪 37階",
+   "yen": [
+    26600,
+    38000
+   ],
+   "bookingHow": "Four Seasons Osaka dining reservations",
+   "website": "https://www.fourseasons.com/jp/osaka/",
+   "arriveBasis": "post",
+   "diet": {
+    "pork": false,
+    "shellfish": true,
+    "noPorkOption": true
+   },
+   "about": "Yannick Alléno's omakase sushi counter on the 37th floor with city views. The 17:30 sunset seating is the cheaper and more scenic slot. Not kosher; no-pork/no-shellfish on request when booking.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": []
+  },
+  {
+   "id": "benitsuru",
+   "cat": "food",
+   "sym": "🥞",
+   "name": "Benitsuru",
+   "order": "Bacon & fried egg pancake",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Nishi-Asakusa – 2-1-11",
+   "lat": 35.7119,
+   "lng": 139.7918,
+   "hours": "10:00–17:00",
+   "days": "Irregular closing days",
+   "arrive": "8:30 – same-day numbered tickets handed out at the door (¥1,000 deposit)",
+   "booking": "required",
+   "time": "1 h + waiting",
+   "notes": "A few minutes from Tawaramachi Station; 5 min from Tsukuba Express Asakusa. Cards accepted.",
+   "ig": [
+    "DdaKPvfhtCb",
+    "DNz4wwY4uF7"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "2-1-11 Nishi-Asakusa, Taito-ku, Tokyo",
+   "addressJa": "東京都台東区西浅草2-1-11",
+   "yen": [
+    2000,
+    3500
+   ],
+   "bookingHow": "Same-day numbered ticket at the door from 8:30 (¥1,000 deposit) – no online booking",
+   "arriveBasis": "post",
+   "diet": {
+    "pork": true
+   },
+   "about": "Famous soufflé-style triple-stack pancakes (the bacon-and-egg one is the signature). Tickets for the day sell out early – go at 8:30 to get a slot.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E6%B5%85%E8%8D%89_%E7%B4%85%E9%B6%B4_%2848438690487%29.jpg/960px-%E6%B5%85%E8%8D%89_%E7%B4%85%E9%B6%B4_%2848438690487%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%E6%B5%85%E8%8D%89_%E7%B4%85%E9%B6%B4_%2848438690487%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%85%E8%8D%89_%E7%B4%85%E9%B6%B4_(48438690487).jpg",
+     "credit": "Brian Jeffery Beggerly from S'pore (Singapore), Singapore",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "t-nakameguro",
+   "cat": "food",
+   "sym": "🥩",
+   "name": "T Nakameguro",
+   "order": "Course \"T\" – female Omi beef T-bone",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Nakameguro – Kamimeguro 2-37-12",
+   "lat": 35.6412,
+   "lng": 139.6965,
+   "hours": "Seatings 17:30 or 20:30 (lunch 12:00)",
+   "days": "Daily",
+   "arrive": "On time – the course starts for everyone together",
+   "booking": "required",
+   "time": "2.5–3 h",
+   "notes": "Ranked among the world's best steak restaurants. Business-casual dress.",
+   "ig": [
+    "DZoJ6ryh_3t",
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Comfort Nakameguro 102, 2-37-12 Kamimeguro, Meguro-ku, Tokyo",
+   "addressJa": "東京都目黒区上目黒2-37-12 コンフォート中目黒102",
+   "yen": [
+    18000,
+    25000
+   ],
+   "bookingHow": "Online reservation (course only; cancellation fees)",
+   "arriveBasis": "post",
+   "about": "Steak tasting course built around a huge Omi-beef T-bone. Everyone starts at the same time – arrive on the minute.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E8%BF%91%E6%B1%9F%E7%89%9B.jpg/960px-%E8%BF%91%E6%B1%9F%E7%89%9B.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E8%BF%91%E6%B1%9F%E7%89%9B.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:%E8%BF%91%E6%B1%9F%E7%89%9B.jpg",
+     "credit": "Syced",
+     "license": "CC0",
+     "kind": "dish"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%E8%82%89%E3%81%AE%E6%9D%BE%E5%B1%B120160925_124155172.jpg/960px-%E8%82%89%E3%81%AE%E6%9D%BE%E5%B1%B120160925_124155172.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%E8%82%89%E3%81%AE%E6%9D%BE%E5%B1%B120160925_124155172.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:%E8%82%89%E3%81%AE%E6%9D%BE%E5%B1%B120160925_124155172.jpg",
+     "credit": "経済特区",
+     "license": "CC BY-SA 4.0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "tsukiji",
+   "cat": "food",
+   "sym": "🐟",
+   "name": "Tsukiji Outer Market",
+   "order": "Tamagoyaki, tuna, uni and grilled seafood stalls",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Tsukiji",
+   "lat": 35.6654,
+   "lng": 139.7705,
+   "hours": "Most stalls about 6:00/7:00–14:00",
+   "days": "Many stalls close Sundays, holidays and some Wednesdays",
+   "arrive": "8:00–10:00",
+   "booking": "no",
+   "time": "1.5–2 h",
+   "notes": "Combine with Ginza (10 min walk). Eat at the stall, not while walking.",
+   "ig": [
+    "Danbh6-PBPV"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "4-chome Tsukiji, Chuo-ku, Tokyo",
+   "addressJa": "東京都中央区築地4丁目 築地場外市場",
+   "yen": [
+    1500,
+    4000
+   ],
+   "website": "https://www.tsukiji.or.jp/",
+   "arriveBasis": "opening",
+   "about": "Old outer market streets with stalls selling tamagoyaki, tuna, uni, grilled scallops and knives. Graze from stall to stall in the morning; many close by early afternoon.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Tsukiji_Outer_Market_2.jpg/960px-Tsukiji_Outer_Market_2.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tsukiji_Outer_Market_2.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market_2.jpg",
+     "credit": "Aw1805",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Tsukiji_Outer_Market_-04.jpg/960px-Tsukiji_Outer_Market_-04.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tsukiji_Outer_Market_-04.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market_-04.jpg",
+     "credit": "Aimaimyi",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "yagura-hakata",
+   "cat": "food",
+   "sym": "🍱",
+   "name": "Yagura",
+   "order": "Special katsudon + udon set",
+   "price": 1,
+   "city": "Fukuoka",
+   "area": "Hakata – Hakataekimae 2-9-28 B1",
+   "lat": 33.5925,
+   "lng": 130.4155,
+   "hours": "11:30–19:00 (Sat until 17:00)",
+   "days": "Closed Sundays and public holidays",
+   "arrive": "11:30 at opening – queue forms fast",
+   "booking": "no",
+   "time": "30 min",
+   "notes": "Opened 1971. 7 min walk from Gion Station.",
+   "ig": [
+    "Dbu5Pv1T0gM"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "B1, 2-9-28 Hakataekimae, Hakata-ku, Fukuoka",
+   "addressJa": "福岡県福岡市博多区博多駅前2-9-28 B1",
+   "yen": [
+    900,
+    1500
+   ],
+   "arriveBasis": "post",
+   "diet": {
+    "pork": true
+   },
+   "about": "50-year-old basement counter where the old chef makes katsudon in front of you; add the udon set. Lunch crowd of office workers.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Zaru_soba_and_Miso_katsu_udon_by_OiMax_in_Shinjuku%2C_Tokyo.jpg/960px-Zaru_soba_and_Miso_katsu_udon_by_OiMax_in_Shinjuku%2C_Tokyo.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Zaru_soba_and_Miso_katsu_udon_by_OiMax_in_Shinjuku%2C_Tokyo.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Zaru_soba_and_Miso_katsu_udon_by_OiMax_in_Shinjuku,_Tokyo.jpg",
+     "credit": "OiMax from Shinjuku, Tokyo",
+     "license": "CC BY 2.0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "ginza-kagari",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "Ginza Kagari (main shop)",
+   "order": "Tori paitan soba (creamy chicken ramen)",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Ginza – 6-4-12",
+   "lat": 35.6711,
+   "lng": 139.7615,
+   "hours": "11:00–21:30; closes early if sold out",
+   "days": "Check before going",
+   "arrive": "Before 11:00 or 15:00–17:00",
+   "booking": "no",
+   "time": "45 min incl. queue",
+   "notes": "5 min from Ginza Station.",
+   "ig": [
+    "DPqxM_1CYAZ"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "6-4-12 Ginza, Chuo-ku, Tokyo",
+   "addressJa": "東京都中央区銀座6-4-12",
+   "yen": [
+    1200,
+    3000
+   ],
+   "arriveBasis": "post",
+   "about": "Creamy chicken paitan ramen – rich, silky broth, the dish that made this tiny alley shop famous. Expect a line.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Tori_Paitan_Ramen_%40_Kagari_%40_Ginza_%2815064291108%29.jpg/960px-Tori_Paitan_Ramen_%40_Kagari_%40_Ginza_%2815064291108%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tori_Paitan_Ramen_%40_Kagari_%40_Ginza_%2815064291108%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Tori_Paitan_Ramen_@_Kagari_@_Ginza_(15064291108).jpg",
+     "credit": "Guilhem Vellut from Annecy, France",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tori_Paitan_Ramen_%40_Kagari_%40_Ginza_%2815250521472%29.jpg/960px-Tori_Paitan_Ramen_%40_Kagari_%40_Ginza_%2815250521472%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tori_Paitan_Ramen_%40_Kagari_%40_Ginza_%2815250521472%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Tori_Paitan_Ramen_@_Kagari_@_Ginza_(15250521472).jpg",
+     "credit": "Guilhem Vellut from Annecy, France",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "kappo-shishikura",
+   "cat": "food",
+   "sym": "🐟",
+   "name": "Kappo Shishikura",
+   "order": "\"Kagayaki\" bluefin trinity bowl (akami / chutoro / otoro)",
+   "price": 3,
+   "city": "Tokyo",
+   "area": "Ebisu",
+   "lat": 35.6467,
+   "lng": 139.7101,
+   "hours": "11:30–14:30, 18:00–24:00",
+   "days": "Open daily",
+   "arrive": "Lunch 11:30",
+   "booking": "required",
+   "time": "1 h",
+   "notes": "Bowls ¥8,000; tuna + uni \"Emperor\" bowl ¥18,000. Pin is at Ebisu Station area – exact address to confirm.",
+   "ig": [
+    "DTczq9OifRj"
+   ],
+   "conf": "caption",
+   "approx": true,
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Ebisu, Shibuya-ku, Tokyo (exact address: check booking page)",
+   "yen": [
+    8000,
+    18000
+   ],
+   "bookingHow": "TableCheck",
+   "arriveBasis": "post",
+   "about": "Premium bluefin tuna bowls (lean, medium-fatty and fatty in one bowl), plus a tuna-and-uni \"Emperor\" bowl.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Maguro_don.jpg/960px-Maguro_don.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Maguro_don.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Maguro_don.jpg",
+     "credit": "Misei sen",
+     "license": "CC BY 4.0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "maguro-mart",
+   "cat": "food",
+   "sym": "🐟",
+   "name": "Maguro Mart",
+   "order": "Maguro Mart platter + nakaochi (scrape tuna off the bone)",
+   "price": 3,
+   "city": "Tokyo",
+   "area": "Nakano – 5-50-3",
+   "lat": 35.7105,
+   "lng": 139.6664,
+   "hours": "Mon–Fri 17:00–22:00, Sat–Sun 16:00–23:00",
+   "days": "Open daily (evenings)",
+   "arrive": "17:00–18:00",
+   "booking": "required",
+   "time": "2 h",
+   "notes": "Hours differ between the post (Mon–Fri 17–22, Sat–Sun 16–23) and OpenStreetMap (Mon–Sat 17–24, Sun 16–23:30). Confirm when booking.",
+   "ig": [
+    "DTN_xkJACNB"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Arai 1-chome (Yakushi Ai-Road shopping street), Nakano-ku, Tokyo",
+   "addressJa": "東京都中野区新井1丁目 薬師あいロード商店街 マグロマート",
+   "phone": "+81-3-5942-5594",
+   "yen": [
+    4000,
+    8000
+   ],
+   "bookingHow": "Phone or online; book about a month ahead",
+   "arriveBasis": "post",
+   "about": "Small tuna-only restaurant with rare cuts you rarely see elsewhere – scraped bone meat (nakaochi), seasonal chef specials.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Maguro_Otoro_%28fatty_tuna%29_Nigiri.jpg/960px-Maguro_Otoro_%28fatty_tuna%29_Nigiri.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Maguro_Otoro_%28fatty_tuna%29_Nigiri.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Maguro_Otoro_(fatty_tuna)_Nigiri.jpg",
+     "credit": "Zheng Zhou",
+     "license": "CC BY-SA 4.0",
+     "kind": "dish"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Maguro_don.jpg/960px-Maguro_don.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Maguro_don.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Maguro_don.jpg",
+     "credit": "Misei sen",
+     "license": "CC BY 4.0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "yurakucho-kakida",
+   "cat": "food",
+   "sym": "🍣",
+   "name": "Yurakucho Kakida",
+   "order": "All-you-can-eat omakase sushi",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Shinjuku South – Odakyu Southern Tower 19F",
+   "lat": 35.6862,
+   "lng": 139.6993,
+   "hours": "Weekday seatings 12:00 / 14:00 / 17:00 / 19:00 / 21:30",
+   "days": "Daily (weekend seatings 12:00 / 14:00 / 16:00)",
+   "arrive": "Your seating time",
+   "booking": "required",
+   "time": "1.5 h",
+   "notes": "About ¥12,000–13,000 + one drink minimum (¥1,000+). 3 min from Shinjuku South Exit. The post tagged it as a buffet \"5 min from Shinjuku\".",
+   "ig": [
+    "DOQ5sn_k1UP"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Odakyu Southern Tower 19F, 2-2-1 Yoyogi, Shibuya-ku, Tokyo",
+   "addressJa": "東京都渋谷区代々木2-2-1 小田急サザンタワー19階",
+   "yen": [
+    13000,
+    15000
+   ],
+   "bookingHow": "Online – seatings often full months ahead",
+   "arriveBasis": "post",
+   "about": "All-you-can-eat omakase sushi with Toyosu-market fish, served in timed seatings. A one-drink minimum applies.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Odakyu-Southern-Tower-00.jpg/960px-Odakyu-Southern-Tower-00.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Odakyu-Southern-Tower-00.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Odakyu-Southern-Tower-00.jpg",
+     "credit": "Rs1421",
+     "license": "CC BY-SA 3.0",
+     "kind": "area"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Odakyu-Southern-Tower-02.jpg/960px-Odakyu-Southern-Tower-02.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Odakyu-Southern-Tower-02.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Odakyu-Southern-Tower-02.jpg",
+     "credit": "Rs1421",
+     "license": "CC BY-SA 3.0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "shunyacchan",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "Yatai Ramen Shunyacchan",
+   "order": "Hachioji-style shoyu ramen with chopped onion",
+   "price": 1,
+   "city": "Tokyo (Hachioji)",
+   "area": "Takao – 350 m from Takao Station",
+   "lat": 35.6414,
+   "lng": 139.2858,
+   "hours": "18:00–23:00",
+   "days": "Tue–Sat (closed Sun–Mon)",
+   "arrive": "After a Mt. Takao hike, from opening",
+   "booking": "recommended",
+   "time": "45 min",
+   "notes": "Street-stall style ramen far west of central Tokyo – pair it with a Mt. Takao day.",
+   "ig": [
+    "DNz4wwY4uF7"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Hatsuzawa-machi, Hachioji, Tokyo (near Takao Station)",
+   "addressJa": "東京都八王子市初沢町 屋台ラーメン しゅんやっちゃん",
+   "yen": [
+    900,
+    1300
+   ],
+   "bookingHow": "TableCheck",
+   "website": "https://tabelog.com/tokyo/A1329/A132905/13256299/",
+   "arriveBasis": "opening",
+   "about": "Street-stall style ramen with Hachioji's chopped-onion shoyu soup. Far west of central Tokyo – combine with a Mt. Takao hike.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Around_Takaosanguchi_station_5.jpg/960px-Around_Takaosanguchi_station_5.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Around_Takaosanguchi_station_5.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Around_Takaosanguchi_station_5.jpg",
+     "credit": "Syced",
+     "license": "CC0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "ikura-shibuya",
+   "cat": "food",
+   "sym": "🍳",
+   "name": "Ikura (Hamburger & Omurice)",
+   "order": "Omurice + hamburg steak on the hot plate",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Shibuya – Maruyama-cho 5-3",
+   "lat": 35.6569,
+   "lng": 139.6956,
+   "hours": "Check before going",
+   "days": "Check before going",
+   "arrive": "Opening time – there is usually a line",
+   "booking": "unknown",
+   "time": "45 min",
+   "notes": "Live teppan cooking at the counter.",
+   "ig": [
+    "DNz4wwY4uF7"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Dogenzaka 1-chome, Shibuya-ku, Tokyo",
+   "addressJa": "東京都渋谷区道玄坂1丁目 いくら",
+   "yen": [
+    1500,
+    2500
+   ],
+   "arriveBasis": "estimate",
+   "about": "Omurice and hamburg steak cooked on a sizzling hot plate in front of you – fun, filling, casual.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Omurice_by_Taimeiken.jpg/960px-Omurice_by_Taimeiken.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Omurice_by_Taimeiken.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Omurice_by_Taimeiken.jpg",
+     "credit": "Kanesue",
+     "license": "CC BY 2.0",
+     "kind": "dish"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Omurice_with_Demi-glace_Sause_in_Osaka%2C_Japan.jpg/960px-Omurice_with_Demi-glace_Sause_in_Osaka%2C_Japan.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Omurice_with_Demi-glace_Sause_in_Osaka%2C_Japan.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Omurice_with_Demi-glace_Sause_in_Osaka,_Japan.jpg",
+     "credit": "高砂の浦",
+     "license": "CC0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "hanayama-udon",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "Godaime Hanayama Udon (Ginza)",
+   "order": "Oni-kama – extra-wide himokawa udon",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Higashi-Ginza – 3-14-13, behind Kabukiza",
+   "lat": 35.6713,
+   "lng": 139.769,
+   "hours": "From 11:00 (lunch and dinner)",
+   "days": "Closed New Year holidays only",
+   "arrive": "10:40, before the 11:00 opening",
+   "booking": "no",
+   "time": "30 min + queue",
+   "notes": "Shorter line at the Nihonbashi branch.",
+   "ig": [
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "3-14-13 Ginza, Chuo-ku, Tokyo (behind Kabukiza)",
+   "addressJa": "東京都中央区銀座3-14-13",
+   "yen": [
+    1000,
+    2000
+   ],
+   "arriveBasis": "opening",
+   "about": "Gunma-style \"himokawa\" udon – noodles as wide as a ribbon, served hot or cold. Long queues at the Ginza branch.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Himokawa-udon.jpg/960px-Himokawa-udon.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Himokawa-udon.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Himokawa-udon.jpg",
+     "credit": "tail_furry",
+     "license": "CC BY-SA 3.0",
+     "kind": "dish"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Himokawa-udon_001.jpg/960px-Himokawa-udon_001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Himokawa-udon_001.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Himokawa-udon_001.jpg",
+     "credit": "Ocdp",
+     "license": "CC0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "gyoza-ro",
+   "cat": "food",
+   "sym": "🥟",
+   "name": "Harajuku Gyoza Ro",
+   "order": "Pan-fried + steamed gyoza with garlic",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Harajuku – Jingumae 6-2-4",
+   "lat": 35.6676,
+   "lng": 139.7062,
+   "hours": "11:00–22:00",
+   "days": "Daily",
+   "arrive": "Off-peak 15:00–17:00",
+   "booking": "no",
+   "time": "30 min",
+   "notes": "Two-item menu, very cheap. Combine with Cat Street.",
+   "ig": [
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "6-2-4 Jingumae, Shibuya-ku, Tokyo",
+   "addressJa": "東京都渋谷区神宮前6-2-4",
+   "yen": [
+    600,
+    1200
+   ],
+   "arriveBasis": "estimate",
+   "diet": {
+    "pork": true
+   },
+   "about": "Cheap, fast gyoza – pan-fried or steamed, with or without garlic – a classic quick stop between Harajuku shops.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gyoza_-_Tora.jpg/960px-Gyoza_-_Tora.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gyoza_-_Tora.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Gyoza_-_Tora.jpg",
+     "credit": "Francesc Fort",
+     "license": "CC BY-SA 4.0",
+     "kind": "dish"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Gyoza_no_Antei_-_3.jpg/960px-Gyoza_no_Antei_-_3.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gyoza_no_Antei_-_3.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Gyoza_no_Antei_-_3.jpg",
+     "credit": "Enming Yan / 闫恩铭",
+     "license": "CC BY-SA 4.0",
+     "kind": "dish"
+    }
+   ]
+  },
+  {
+   "id": "hikiniku-kyoto",
+   "cat": "food",
+   "sym": "🍔",
+   "name": "Hikiniku to Come Kyoto",
+   "order": "Charcoal-grilled hamburg set (fresh minced wagyu)",
+   "price": 2,
+   "city": "Kyoto",
+   "area": "Higashiyama – 363 Kiyomotocho (Gion Shirakawa)",
+   "lat": 35.0051,
+   "lng": 135.7745,
+   "hours": "11:00–15:00, 17:00–21:00",
+   "days": "Closed Wednesdays",
+   "arrive": "9:00 for same-day in-store registration",
+   "booking": "recommended",
+   "time": "1 h + wait",
+   "notes": "Registration is not a seat guarantee – expect some wait. Also in Shibuya and Kichijoji (Tokyo).",
+   "ig": [
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "363 Kiyomotocho, Higashiyama-ku, Kyoto",
+   "addressJa": "京都府京都市東山区清本町363",
+   "yen": [
+    1800,
+    2500
+   ],
+   "bookingHow": "Free online slots 7 days ahead, or same-day registration in store from 9:00",
+   "bookingUrl": "https://hikinikutocome.com/",
+   "website": "https://hikinikutocome.com/",
+   "arriveBasis": "post",
+   "about": "Hamburg steaks grilled over charcoal and served one at a time, straight to your rice bowl. Strict time slots.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_steak_from_Hikinuku_to_Come_in_Tokyo%2C_Japan_in_July_2026.jpg/960px-Hamburg_steak_from_Hikinuku_to_Come_in_Tokyo%2C_Japan_in_July_2026.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Hamburg_steak_from_Hikinuku_to_Come_in_Tokyo%2C_Japan_in_July_2026.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Hamburg_steak_from_Hikinuku_to_Come_in_Tokyo,_Japan_in_July_2026.jpg",
+     "credit": "Gatorfan252525",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "bar-centifolia",
+   "cat": "nightlife",
+   "sym": "🍸",
+   "name": "BAR CENTIFOLIA",
+   "type": "Theatrical cocktail bar",
+   "crowd": "Foreigner-oriented (heavily on social media)",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Azabu-Juban – 1-6-5, 6F",
+   "lat": 35.6564,
+   "lng": 139.7342,
+   "hours": "20:30–03:00",
+   "days": "Closed Wednesdays and Sundays",
+   "arrive": "20:30 at opening for walk-ins; late 00:00–02:00 slots are kept for walk-ins",
+   "bestDays": "Mon, Tue, Thu–Sat",
+   "booking": "recommended",
+   "time": "2 h (bookings are 120 min)",
+   "charge": "¥1,000 per person + 10% tax; cocktails from ¥4,000",
+   "smoking": "Smoking allowed inside",
+   "dress": "Smart casual",
+   "notes": "The post says closed only Wednesdays – the bar's own booking page now says Wednesdays and Sundays.",
+   "ig": [
+    "DZPz2WZqxC6",
+    "DNz4wwY4uF7"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Azabu-Juban 1-chome, Minato-ku, Tokyo",
+   "addressJa": "東京都港区麻布十番1丁目 バー センティフォリア",
+   "phone": "+81-3-3478-6228",
+   "yen": [
+    8000,
+    15000
+   ],
+   "arriveBasis": "opening",
+   "about": "Theatrical cocktail bar where drinks arrive like performances, with a welcome glass of champagne. Popular with visitors – book or arrive at opening.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Azabu-juban_0147.jpg/960px-Azabu-juban_0147.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Azabu-juban_0147.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Azabu-juban_0147.jpg",
+     "credit": "No machine-readable author provided. BetacommandBot assumed ",
+     "license": "CC BY-SA 3.0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "ine-funaya",
+   "cat": "attractions",
+   "sym": "🏘️",
+   "name": "Ine Funaya fishing village",
+   "type": "Traditional village / scenery",
+   "recDay": "Weekday, clear day",
+   "price": 1,
+   "city": "Ine (Kyoto Prefecture)",
+   "area": "Tango Peninsula",
+   "lat": 35.6749,
+   "lng": 135.2894,
+   "hours": "Village always open; boat tours about 9:00–16:00",
+   "days": "Any day",
+   "arrive": "Morning, to stay into late afternoon light",
+   "booking": "no",
+   "time": "Half day (+2 h drive each way)",
+   "season": "All year; spring–autumn best",
+   "notes": "About 2 h from Kyoto or Osaka. Rental car is the easiest – needs an International Driving Permit.",
+   "ig": [
+    "DTFC3K-iCYI"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Hiji, Ine-cho, Yosa-gun, Kyoto",
+   "addressJa": "京都府与謝郡伊根町日出",
+   "yen": [
+    0,
+    1500
+   ],
+   "arriveBasis": "estimate",
+   "about": "Fishing village of wooden boathouses (funaya) built right on the water. Quiet, scenic, best seen from the short sightseeing boat.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": []
+  },
+  {
+   "id": "chureito",
+   "cat": "attractions",
+   "sym": "🗻",
+   "name": "Arakurayama Sengen Park – Chureito Pagoda",
+   "type": "Viewpoint (Mt. Fuji + pagoda)",
+   "recDay": "Clear-sky morning",
+   "price": 1,
+   "city": "Fujiyoshida",
+   "area": "Fuji Five Lakes",
+   "lat": 35.5013,
+   "lng": 138.8014,
+   "hours": "Park open 24 h",
+   "days": "Any day",
+   "arrive": "Sunrise to 8:00 – Fuji hides in cloud later",
+   "booking": "no",
+   "time": "1.5 h (398 steps up)",
+   "season": "Late Mar–early Apr cherry blossoms; winter clearest Fuji",
+   "notes": "Fuji is fully visible only around 80 days a year – check the forecast.",
+   "ig": [
+    "DS9Si9TCbbF"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Arakura, Fujiyoshida, Yamanashi",
+   "addressJa": "山梨県富士吉田市新倉 忠霊塔",
+   "yen": [
+    0,
+    0
+   ],
+   "arriveBasis": "estimate",
+   "about": "The postcard view: a five-storey red pagoda in front of Mt. Fuji, reached by 398 steps. Clear mornings are everything here.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Chureito_Pagoda_and_Mount_Fuji_2023-03-07.jpg/960px-Chureito_Pagoda_and_Mount_Fuji_2023-03-07.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chureito_Pagoda_and_Mount_Fuji_2023-03-07.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_2023-03-07.jpg",
+     "credit": "Stjepko Krehula",
+     "license": "CC BY 4.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/12-Chureito-pagoda-and-Mount-Fuji-Japan_%2829677439878%29.jpg/960px-12-Chureito-pagoda-and-Mount-Fuji-Japan_%2829677439878%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/12-Chureito-pagoda-and-Mount-Fuji-Japan_%2829677439878%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:12-Chureito-pagoda-and-Mount-Fuji-Japan_(29677439878).jpg",
+     "credit": "Dang Son",
+     "license": "CC0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "fujiq-naruto",
+   "cat": "attractions",
+   "sym": "🎢",
+   "name": "Fuji-Q Highland – Naruto × Boruto village",
+   "type": "Theme park / anime",
+   "recDay": "Weekday",
+   "price": 3,
+   "city": "Fujiyoshida",
+   "area": "Fuji Five Lakes – 5-6-1 Shin-Nishihara",
+   "lat": 35.4873,
+   "lng": 138.7816,
+   "hours": "About 9:00/10:00–17:00/18:00 (seasonal)",
+   "days": "Check the park calendar",
+   "arrive": "At opening",
+   "booking": "recommended",
+   "time": "Half to full day",
+   "season": "All year",
+   "notes": "Ichiraku ramen and character meet-ups in the Naruto area. Pairs with Chureito Pagoda (10 min away). Confirm the Naruto area is still running before going.",
+   "ig": [
+    "DODyJLKCZZ0"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "5-6-1 Shin-Nishihara, Fujiyoshida, Yamanashi",
+   "addressJa": "山梨県富士吉田市新西原5-6-1 富士急ハイランド",
+   "phone": "+81-555-23-2111",
+   "website": "https://www.fujiq.jp/",
+   "yen": [
+    6000,
+    8000
+   ],
+   "arriveBasis": "opening",
+   "about": "Big thrill-ride park at the foot of Fuji with a Naruto/Boruto \"Hidden Leaf Village\" area – character meets, Ichiraku ramen, anime props.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fuji-Q_Highland_%2833446058823%29.jpg/960px-Fuji-Q_Highland_%2833446058823%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Fuji-Q_Highland_%2833446058823%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Fuji-Q_Highland_(33446058823).jpg",
+     "credit": "Olivier Bruchez from Lausanne, Switzerland",
+     "license": "CC BY-SA 2.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Fuji-Q_Highland_%2844614891025%29.jpg/960px-Fuji-Q_Highland_%2844614891025%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Fuji-Q_Highland_%2844614891025%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Fuji-Q_Highland_(44614891025).jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "nijigen-naruto",
+   "cat": "attractions",
+   "sym": "🥷",
+   "name": "Nijigen no Mori – NARUTO & BORUTO Shinobi-Zato",
+   "type": "Anime theme park (ninja missions)",
+   "recDay": "Weekday",
+   "price": 2,
+   "city": "Awaji Island (Hyogo)",
+   "area": "Kusumoto, Awaji City",
+   "lat": 34.5748,
+   "lng": 135.0021,
+   "hours": "10:00–22:00 (last entry 20:00); seasonal",
+   "days": "Daily",
+   "arrive": "10:00",
+   "booking": "recommended",
+   "time": "2–3 h",
+   "season": "All year",
+   "notes": "Express bus \"Kakehashi Naruto\" from Osaka/Kobe. No filming during the finale.",
+   "ig": [
+    "DTfAFFBDnxy"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Kusumoto, Awaji City, Hyogo (Awaji Island)",
+   "addressJa": "兵庫県淡路市楠本 ニジゲンノモリ",
+   "phone": "+81-799-64-7061",
+   "website": "https://nijigennomori.com/",
+   "bookingUrl": "https://nijigennomori.com/",
+   "yen": [
+    3300,
+    6000
+   ],
+   "arriveBasis": "opening",
+   "about": "Outdoor Naruto ninja park on Awaji Island: complete missions by performing jutsu hand signs that sensors recognise to open doors and chests.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": []
+  },
+  {
+   "id": "matsumoto-castle",
+   "cat": "attractions",
+   "sym": "🏯",
+   "name": "Matsumoto Castle",
+   "type": "Original castle",
+   "recDay": "Day 1 of the Alps route",
+   "price": 1,
+   "city": "Matsumoto",
+   "area": "Nagano – Japan Alps",
+   "lat": 36.2386,
+   "lng": 137.9689,
+   "hours": "8:30–17:00 (8:00–18:00 Golden Week and August)",
+   "days": "Daily (closed Dec 29–31)",
+   "arrive": "8:30 at opening",
+   "booking": "no",
+   "time": "1.5 h",
+   "season": "All year; cherry blossom early–mid April",
+   "notes": "Part of the 5-day Alps route from the post: Matsumoto ×2 nights, then Takayama ×2.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "4-1 Marunouchi, Matsumoto, Nagano",
+   "addressJa": "長野県松本市丸の内4-1 松本城",
+   "website": "https://www.matsumoto-castle.jp/",
+   "yen": [
+    700,
+    700
+   ],
+   "arriveBasis": "opening",
+   "about": "One of Japan's few original castles – black \"crow castle\" with steep wooden stairs inside. Climb to the top for Alps views.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Matsumoto_Castle05s5s4592.jpg/960px-Matsumoto_Castle05s5s4592.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Matsumoto_Castle05s5s4592.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Castle05s5s4592.jpg",
+     "credit": "663highland",
+     "license": "CC BY 2.5",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/130608_Matsumoto_Castle_Matsumoto_Nagano_pref_Japan01bs5.jpg/960px-130608_Matsumoto_Castle_Matsumoto_Nagano_pref_Japan01bs5.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/130608_Matsumoto_Castle_Matsumoto_Nagano_pref_Japan01bs5.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:130608_Matsumoto_Castle_Matsumoto_Nagano_pref_Japan01bs5.jpg",
+     "credit": "663highland",
+     "license": "CC BY 2.5",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "daio-wasabi",
+   "cat": "attractions",
+   "sym": "🌿",
+   "name": "Daio Wasabi Farm",
+   "type": "Farm / scenery",
+   "recDay": "Day 1, with Matsumoto",
+   "price": 1,
+   "city": "Azumino",
+   "area": "Near Matsumoto",
+   "lat": 36.3387,
+   "lng": 137.9084,
+   "hours": "About 9:00–17:00 (shorter in winter)",
+   "days": "Daily",
+   "arrive": "Morning",
+   "booking": "no",
+   "time": "1.5 h",
+   "season": "Spring–autumn",
+   "notes": "Try the wasabi soft-serve.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Hotaka, Azumino, Nagano",
+   "addressJa": "長野県安曇野市穂高 大王わさび農場",
+   "yen": [
+    0,
+    1000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Huge wasabi farm with crystal-clear spring-water channels and old water wheels. Free to walk; try the wasabi soft-serve.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Daio_wasabi_farm02c.jpg/960px-Daio_wasabi_farm02c.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Daio_wasabi_farm02c.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Daio_wasabi_farm02c.jpg",
+     "credit": "663highland",
+     "license": "CC BY 2.5",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Daio_Wasabi_Farm_Wasabida-2.JPG/960px-Daio_Wasabi_Farm_Wasabida-2.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Daio_Wasabi_Farm_Wasabida-2.JPG",
+     "source": "https://commons.wikimedia.org/wiki/File:Daio_Wasabi_Farm_Wasabida-2.JPG",
+     "credit": "Namemiso",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "nakasendo",
+   "cat": "attractions",
+   "sym": "🥾",
+   "name": "Nakasendo trail – Magome to Tsumago",
+   "type": "Historic hike",
+   "recDay": "Day 2 of the Alps route",
+   "price": 1,
+   "city": "Kiso Valley",
+   "area": "Magome (Gifu) – Tsumago (Nagano)",
+   "lat": 35.5265,
+   "lng": 137.5675,
+   "hours": "Daylight",
+   "days": "Any day",
+   "arrive": "Start by 10:00 in Magome",
+   "booking": "no",
+   "time": "3 h walk (8 km)",
+   "season": "Apr–Nov",
+   "notes": "Start in Magome – mostly downhill toward Tsumago.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Magome, Nakatsugawa, Gifu",
+   "addressJa": "岐阜県中津川市馬籠 馬籠宿",
+   "website": "https://kiso-magome.com/",
+   "yen": [
+    0,
+    1500
+   ],
+   "arriveBasis": "estimate",
+   "about": "Walk the preserved Edo-era post road between two old wooden post towns through forest and waterfalls – about 8 km, mostly downhill from Magome.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Magome-Juku_StoneSlope.jpg/960px-Magome-Juku_StoneSlope.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Magome-Juku_StoneSlope.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Magome-Juku_StoneSlope.jpg",
+     "credit": "SElefant",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Magome_2009_5.JPG/960px-Magome_2009_5.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Magome_2009_5.JPG",
+     "source": "https://commons.wikimedia.org/wiki/File:Magome_2009_5.JPG",
+     "credit": "Gryffindor",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "kamikochi",
+   "cat": "attractions",
+   "sym": "🏔️",
+   "name": "Kamikochi",
+   "type": "Alpine nature reserve",
+   "recDay": "Day 3 of the Alps route",
+   "price": 1,
+   "city": "Matsumoto (Azumi)",
+   "area": "Northern Alps",
+   "lat": 36.2488,
+   "lng": 137.6378,
+   "hours": "Buses from early morning; last buses out late afternoon",
+   "days": "Open only mid-April to mid-November",
+   "arrive": "First bus",
+   "booking": "no",
+   "time": "Full day",
+   "season": "Mid-Apr to mid-Nov only; autumn colours mid-Oct",
+   "notes": "Closed in winter – plan the Alps leg between April and November.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Kappa Bridge, Azumi, Matsumoto, Nagano",
+   "addressJa": "長野県松本市安曇 上高地 河童橋",
+   "yen": [
+    2500,
+    5000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Alpine valley with a turquoise river and the Hotaka peaks. Flat riverside walks from Kappa Bridge – no private cars, bus or taxi only.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/150920_Kappa-bashi_Kamikochi_Japan01n.jpg/960px-150920_Kappa-bashi_Kamikochi_Japan01n.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/150920_Kappa-bashi_Kamikochi_Japan01n.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:150920_Kappa-bashi_Kamikochi_Japan01n.jpg",
+     "credit": "663highland",
+     "license": "CC BY 2.5",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/150920_Kappa-bashi_Kamikochi_Japan02n.jpg/960px-150920_Kappa-bashi_Kamikochi_Japan02n.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/150920_Kappa-bashi_Kamikochi_Japan02n.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:150920_Kappa-bashi_Kamikochi_Japan02n.jpg",
+     "credit": "663highland",
+     "license": "CC BY 2.5",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "takayama",
+   "cat": "attractions",
+   "sym": "🏮",
+   "name": "Takayama old town (Sanmachi-suji)",
+   "type": "Historic town",
+   "recDay": "Days 4–5 of the Alps route",
+   "price": 1,
+   "city": "Takayama",
+   "area": "Gifu – Hida",
+   "lat": 36.1417,
+   "lng": 137.2595,
+   "hours": "Shops about 9:00–17:00; morning markets 7:00–12:00",
+   "days": "Daily",
+   "arrive": "7:00 for the Miyagawa morning market",
+   "booking": "no",
+   "time": "Full day",
+   "season": "All year; festivals mid-April and early October",
+   "notes": "Try Hida beef sushi. The post suggests a relaxing hotel here.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Kami-Sannomachi, Takayama, Gifu",
+   "addressJa": "岐阜県高山市上三之町",
+   "yen": [
+    1000,
+    5000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Lanes of dark wooden merchant houses, sake breweries and Hida-beef snack stalls, plus riverside morning markets.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Shops_in_one_of_the_three_main_streets_in_Sanmachi-Suji_%286156040666%29.jpg/960px-Shops_in_one_of_the_three_main_streets_in_Sanmachi-Suji_%286156040666%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Shops_in_one_of_the_three_main_streets_in_Sanmachi-Suji_%286156040666%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Shops_in_one_of_the_three_main_streets_in_Sanmachi-Suji_(6156040666).jpg",
+     "credit": "Maarten Heerlien from Voorschoten, The Netherlands",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Stone_maneki_neko_%286156042206%29.jpg/960px-Stone_maneki_neko_%286156042206%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Stone_maneki_neko_%286156042206%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Stone_maneki_neko_(6156042206).jpg",
+     "credit": "Maarten Heerlien from Voorschoten, The Netherlands",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "beppu",
+   "cat": "attractions",
+   "sym": "♨️",
+   "name": "Beppu – Hells (Jigoku) & onsen town",
+   "type": "Hot springs",
+   "recDay": "Any – mornings are quieter",
+   "price": 2,
+   "city": "Beppu",
+   "area": "Oita, Kyushu",
+   "lat": 33.3159,
+   "lng": 131.4697,
+   "hours": "Hells about 8:00–17:00",
+   "days": "Daily",
+   "arrive": "8:00–9:00",
+   "booking": "no",
+   "time": "1–2 days",
+   "season": "Autumn–winter for onsen",
+   "notes": "From the idan_gigi post – he offers Google Maps locations on request. Tattoo rules vary by bath.",
+   "ig": [
+    "DUyqHvuEycq"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Umi Jigoku, Kannawa, Beppu, Oita",
+   "addressJa": "大分県別府市鉄輪 海地獄",
+   "yen": [
+    2200,
+    6000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Steaming \"hells\" – boiling cobalt-blue and blood-red hot-spring pools – plus endless public baths in Japan's hot-spring capital.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Umi_Jigoku_2.jpg/960px-Umi_Jigoku_2.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Umi_Jigoku_2.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Umi_Jigoku_2.jpg",
+     "credit": "Leyo",
+     "license": "CC BY-SA 2.5 ch",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Umi_Jigoku_October_2011_01.jpg/960px-Umi_Jigoku_October_2011_01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Umi_Jigoku_October_2011_01.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Umi_Jigoku_October_2011_01.jpg",
+     "credit": "STA3816",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "sensoji",
+   "cat": "attractions",
+   "sym": "⛩️",
+   "name": "Senso-ji & Asakusa old town",
+   "type": "Temple / street food",
+   "recDay": "Weekday early morning",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Asakusa",
+   "lat": 35.7134,
+   "lng": 139.7955,
+   "hours": "Main hall 6:00–17:00 (from 6:30 Oct–Mar); grounds always open",
+   "days": "Daily",
+   "arrive": "Before 8:00 for empty photos; 10:00 for street food",
+   "booking": "no",
+   "time": "2 h",
+   "season": "All year",
+   "notes": "From the Tokyo first-timer post. Age.3 and Benitsuru are nearby.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "2-3-1 Asakusa, Taito-ku, Tokyo",
+   "addressJa": "東京都台東区浅草2-3-1 浅草寺",
+   "phone": "+81-3-3842-0181",
+   "website": "https://senso-ji.jp",
+   "yen": [
+    0,
+    1500
+   ],
+   "arriveBasis": "opening",
+   "about": "Tokyo's oldest temple: the giant red lantern gate, the Nakamise snack street and the incense-filled main hall.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Senso-ji_Kaminarimon_2.jpg/960px-Senso-ji_Kaminarimon_2.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Senso-ji_Kaminarimon_2.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Senso-ji_Kaminarimon_2.jpg",
+     "credit": "Zairon",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Senso-ji_Kaminarimon_1.jpg/960px-Senso-ji_Kaminarimon_1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Senso-ji_Kaminarimon_1.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Senso-ji_Kaminarimon_1.jpg",
+     "credit": "Zairon",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "chopsticks-studio",
+   "cat": "other",
+   "sym": "🥢",
+   "name": "Chopsticks Studio Shinjuku",
+   "type": "Craft workshop – make your own chopsticks",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Kabukicho – 1-5-4",
+   "lat": 35.6935,
+   "lng": 139.704,
+   "hours": "Bookable time slots",
+   "days": "Check booking page",
+   "arrive": "Your slot",
+   "booking": "required",
+   "time": "35–60 min",
+   "notes": "About ¥2,000; free laser engraving of a name or date; English-speaking staff.",
+   "ig": [
+    "Dc3cqY4pVuw"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "1-5-4 Kabukicho, Shinjuku-ku, Tokyo",
+   "addressJa": "東京都新宿区歌舞伎町1-5-4",
+   "yen": [
+    2000,
+    3000
+   ],
+   "bookingHow": "Klook (code LOCALOU from the post)",
+   "arriveBasis": "post",
+   "about": "Hands-on workshop: shape, sand and finish your own pair of chopsticks, then get them laser-engraved. A souvenir you made.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Colorful_neon_street_signs_in_Kabukich%C5%8D%2C_Shinjuku%2C_Tokyo.jpg/960px-Colorful_neon_street_signs_in_Kabukich%C5%8D%2C_Shinjuku%2C_Tokyo.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Colorful_neon_street_signs_in_Kabukich%C5%8D%2C_Shinjuku%2C_Tokyo.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg",
+     "credit": "Basile Morin",
+     "license": "CC BY-SA 4.0",
+     "kind": "area"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Shinjuku_Toho_Building_and_Kabukicho_Cinecity_Square_2024-01-28.jpg/960px-Shinjuku_Toho_Building_and_Kabukicho_Cinecity_Square_2024-01-28.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shinjuku_Toho_Building_and_Kabukicho_Cinecity_Square_2024-01-28.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Toho_Building_and_Kabukicho_Cinecity_Square_2024-01-28.jpg",
+     "credit": "Asanagi",
+     "license": "CC0",
+     "kind": "area"
+    }
+   ]
+  },
+  {
+   "id": "cat-street",
+   "cat": "shopping",
+   "sym": "🛍️",
+   "name": "Cat Street",
+   "type": "Street – boutiques & streetwear",
+   "price": 3,
+   "city": "Tokyo",
+   "area": "Harajuku – Omotesando",
+   "lat": 35.6659,
+   "lng": 139.7051,
+   "hours": "Shops about 11:00–20:00",
+   "days": "Daily; weekends crowded",
+   "arrive": "11:00–13:00",
+   "booking": "no",
+   "time": "2 h",
+   "notes": "From the Tokyo first-timer post.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Jingumae 6-chome, Shibuya-ku, Tokyo",
+   "addressJa": "東京都渋谷区神宮前6丁目 キャットストリート",
+   "yen": [
+    3000,
+    20000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Car-free back street between Harajuku and Shibuya lined with streetwear, vintage and concept stores.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Harajuku-Cat-street-05.jpg/960px-Harajuku-Cat-street-05.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Harajuku-Cat-street-05.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Harajuku-Cat-street-05.jpg",
+     "credit": "Rs1421",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Harajuku-Cat-street-04.jpg/960px-Harajuku-Cat-street-04.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Harajuku-Cat-street-04.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Harajuku-Cat-street-04.jpg",
+     "credit": "Rs1421",
+     "license": "CC BY-SA 3.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "uniqlo-ginza",
+   "cat": "shopping",
+   "sym": "🛍️",
+   "name": "UNIQLO Ginza flagship",
+   "type": "12-floor flagship store",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Ginza – 6-9-5",
+   "lat": 35.6705,
+   "lng": 139.764,
+   "hours": "11:00–21:00",
+   "days": "Daily",
+   "arrive": "Weekday morning",
+   "booking": "no",
+   "time": "1 h",
+   "notes": "Ginza also has MUJI and other brand flagships. Combine with Tsukiji.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "6-9-5 Ginza, Chuo-ku, Tokyo",
+   "addressJa": "東京都中央区銀座6-9-5",
+   "yen": [
+    2000,
+    10000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Uniqlo's 12-floor global flagship with Japan-only lines and custom printing.",
+   "sources": [
+    "Instagram post caption"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Uniqlo_Ginza_2018.jpg/960px-Uniqlo_Ginza_2018.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Uniqlo_Ginza_2018.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Uniqlo_Ginza_2018.jpg",
+     "credit": "Wpcpey",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Uniqlo_Ginza_shop.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Uniqlo_Ginza_shop.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Uniqlo_Ginza_shop.jpg",
+     "credit": "Steve Nagata from Tokyo, Japan",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "shimokitazawa",
+   "cat": "shopping",
+   "sym": "🛍️",
+   "name": "Shimokitazawa",
+   "type": "Neighbourhood – vintage / second-hand",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Setagaya",
+   "lat": 35.6613,
+   "lng": 139.6669,
+   "hours": "Shops about 12:00–20:00",
+   "days": "Daily",
+   "arrive": "From 12:00 (shops open late)",
+   "booking": "no",
+   "time": "3 h",
+   "notes": "Young, hipster area – from the Tokyo first-timer post.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Kitazawa, Setagaya-ku, Tokyo (Shimokitazawa Station)",
+   "addressJa": "東京都世田谷区北沢2丁目 下北沢駅",
+   "yen": [
+    1000,
+    8000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Laid-back neighbourhood of vintage clothing shops, record stores, small cafés and live houses.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Shimokitazawa_Street_2015.jpg/960px-Shimokitazawa_Street_2015.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Shimokitazawa_Street_2015.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Shimokitazawa_Street_2015.jpg",
+     "credit": "Aw1805",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Dense_Street_in_Shimokitazawa_%2811919213554%29.jpg/960px-Dense_Street_in_Shimokitazawa_%2811919213554%29.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Dense_Street_in_Shimokitazawa_%2811919213554%29.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Dense_Street_in_Shimokitazawa_(11919213554).jpg",
+     "credit": "Stephen Kelly from San Francisco, CA, USA",
+     "license": "CC BY 2.0",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "id": "kichijoji",
+   "cat": "attractions",
+   "sym": "🌳",
+   "name": "Kichijoji & Inokashira Park",
+   "type": "Neighbourhood + park",
+   "recDay": "Weekday",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Musashino",
+   "lat": 35.6989,
+   "lng": 139.5787,
+   "hours": "Park always open",
+   "days": "Daily",
+   "arrive": "Late morning",
+   "booking": "no",
+   "time": "Half day",
+   "season": "Cherry blossom late March; autumn leaves",
+   "notes": "Few tourists. Ghibli Museum is nearby (tickets sold monthly, in advance). Hikiniku to Come has a branch here.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   },
+   "addressEn": "Inokashira Park, Mitaka / Musashino, Tokyo",
+   "addressJa": "東京都三鷹市 井の頭恩賜公園",
+   "yen": [
+    0,
+    2000
+   ],
+   "arriveBasis": "estimate",
+   "about": "Leafy pond park with swan boats next to Kichijoji's shopping streets – a calm local half-day. The Ghibli Museum is a short walk.",
+   "sources": [
+    "Instagram post caption",
+    "OpenStreetMap (Nominatim), checked 2026-11-26"
+   ],
+   "photos": [
+    {
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/Inokasira_Park.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Inokasira_Park.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Inokasira_Park.jpg",
+     "credit": "No machine-readable author provided. Los688 assumed (based o",
+     "license": "Public domain",
+     "kind": "place"
+    },
+    {
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Inokashira_Park_Zoo_PC053178.jpg/960px-Inokashira_Park_Zoo_PC053178.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Inokashira_Park_Zoo_PC053178.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Inokashira_Park_Zoo_PC053178.jpg",
+     "credit": "Kestrel",
+     "license": "CC BY-SA 4.0",
+     "kind": "place"
+    }
+   ]
+  }
+ ],
+ "review": [
+  {
+   "code": "mooken-osaka",
+   "ig": "DSaeiCIiLMz",
+   "what": "\"MookEN (Osaka)\" – #9 in a top-10 list",
+   "guess": "Couldn't identify the restaurant. Do you know it, or should I watch for the full video?"
+  },
+  {
+   "code": "DRilWpckVya",
+   "ig": "DRilWpckVya",
+   "what": "\"Best unagi bowl in Tokyo\" (jacksdiningroom clip)",
+   "guess": "Restaurant name is only in the video. Tell me the name, or I'll leave it out."
+  },
+  {
+   "code": "DSip6ijj0Nl",
+   "ig": "DSip6ijj0Nl",
+   "what": "\"Best meal I've ever had\" – sushi, Tokyo",
+   "guess": "No restaurant named in the caption – only in the video."
+  },
+  {
+   "code": "DSiHn55jPyg",
+   "ig": "DSiHn55jPyg",
+   "what": "Anime attraction with a Mt. Fuji view (Hebrew post)",
+   "guess": "Most likely Fuji-Q Highland's Naruto area, already on the map. Confirm?"
+  },
+  {
+   "code": "DNEoL8ohTR7",
+   "ig": "DNEoL8ohTR7",
+   "what": "14 days in Japan route (favourite: Okinawa)",
+   "guess": "Spots are only in the video / a DM map. Want Okinawa as a pin?"
+  },
+  {
+   "code": "DR-wD-0jIfG",
+   "ig": "DR-wD-0jIfG",
+   "what": "\"Where should I eat in Tokyo?\" – question post",
+   "guess": "No place. Probably the comments – skip?"
+  },
+  {
+   "code": "DR2HCS4jjnw",
+   "ig": "DR2HCS4jjnw",
+   "what": "\"Should I make a tour video of this place\"",
+   "guess": "No place named."
+  },
+  {
+   "code": "Dbfw4H0Rqim",
+   "ig": "Dbfw4H0Rqim",
+   "what": "\"Welp\" (jordan_the_stallion8)",
+   "guess": "No text at all – what's the place?"
+  },
+  {
+   "code": "DU4EY7sEhlN",
+   "ig": "DU4EY7sEhlN",
+   "what": "\"Bearology\" potty-themed food (califoodventure)",
+   "guess": "Looks like a US place, not Japan – remove from the collection?"
+  },
+  {
+   "code": "DaVZoCohkxn",
+   "ig": "DaVZoCohkxn",
+   "what": "AI Dragon Ball 4DX concept video",
+   "guess": "Not a real place – remove from the collection?"
+  }
+ ]
+}

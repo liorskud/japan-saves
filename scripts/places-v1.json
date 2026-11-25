@@ -1,0 +1,1106 @@
+{
+ "version": 1,
+ "updated": "2026-11-25",
+ "priceScale": {
+  "1": "under ¥1,500",
+  "2": "¥1,500–4,000",
+  "3": "¥4,000–10,000",
+  "4": "¥10,000–25,000",
+  "5": "over ¥25,000"
+ },
+ "places": [
+  {
+   "id": "age3-asakusa",
+   "cat": "food",
+   "sym": "🥪",
+   "name": "Age.3 Asakusa",
+   "order": "Fried cream sando (whipped cream or crème brûlée)",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Asakusa",
+   "lat": 35.7146,
+   "lng": 139.7955,
+   "hours": "10:00–19:00",
+   "days": "Open daily",
+   "arrive": "10:00 at opening, or mid-afternoon to skip the line",
+   "booking": "No – walk in, expect a queue",
+   "time": "20–30 min",
+   "notes": "Each sando is fried to order. Whipped cream from about ¥400.",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "ohno-kamakura",
+   "cat": "food",
+   "sym": "🥩",
+   "name": "Wagyu Don Ohno (Roast Beef Ohno) Kamakura",
+   "order": "Kuroge wagyu roast beef bowl",
+   "price": 2,
+   "city": "Kamakura",
+   "area": "Komachi-dori, near Kamakura Station",
+   "lat": 35.3201,
+   "lng": 139.5527,
+   "hours": "Lunch from about 11:00 (check before going)",
+   "days": "Check before going",
+   "arrive": "11:00 for lunch – pairs with a Kamakura day trip",
+   "booking": "Optional – bookable on TableCheck",
+   "time": "30–45 min",
+   "notes": "Day trip from Tokyo (about 1 h by JR Yokosuka Line).",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "ramen-mozu",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "RAMEN Mozu",
+   "order": "Chicken shio (salt) ramen",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Akasaka – Akasaka Biz Tower B1F",
+   "lat": 35.6727,
+   "lng": 139.7365,
+   "hours": "11:00–23:00 (L.O. 22:30)",
+   "days": "Follows Biz Tower opening days",
+   "arrive": "Off-peak: 14:00–17:00",
+   "booking": "No reservations",
+   "time": "30 min",
+   "notes": "Directly connected to Akasaka Station (Chiyoda Line). Counter only.",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "sushi-yoshikawa",
+   "cat": "food",
+   "sym": "🍣",
+   "name": "Sushi Yoshikawa",
+   "order": "Dragon Ball roll (fatty tuna + uni)",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Azabu-Juban (post says Roppongi)",
+   "lat": 35.656,
+   "lng": 139.7366,
+   "hours": "Dinner course – check booking page",
+   "days": "Check before going",
+   "arrive": "Your booked course time",
+   "booking": "Required – creative course about ¥15,000",
+   "time": "2 h",
+   "notes": "The post says Roppongi; the branch serving the Dragon Ball roll that I could confirm is in Azabu-Juban (next to Roppongi). Confirm the branch when booking.",
+   "ig": [
+    "DfYCj-ezQ6F"
+   ],
+   "conf": "estimate",
+   "approx": true,
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "marushichi-ginza",
+   "cat": "food",
+   "sym": "🍱",
+   "name": "Tonkatsu Marushichi",
+   "order": "Rib-loin katsudon (\"thickest in Japan\")",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Ginza (also Monzen-Nakacho main shop)",
+   "lat": 35.6717,
+   "lng": 139.765,
+   "hours": "Main shop: 11:00–14:00 and 17:00–20:00",
+   "days": "Check before going",
+   "arrive": "11:00 at opening",
+   "booking": "No reservations",
+   "time": "30 min",
+   "notes": "Cash or PayPay at the main shop. Exact Ginza address not confirmed – pin is approximate; the Monzen-Nakacho main shop is the safe bet.",
+   "ig": [
+    "DfYCj-ezQ6F",
+    "DNz4wwY4uF7"
+   ],
+   "conf": "estimate",
+   "approx": true,
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "kitan-hibiki",
+   "cat": "food",
+   "sym": "🍔",
+   "name": "KITAN HIBIKI",
+   "order": "Crispy Potato Wagyu Burger (dry-aged wagyu)",
+   "price": 3,
+   "city": "Osaka",
+   "area": "Namba / Dotonbori – 1-1-7 Namba",
+   "lat": 34.6683,
+   "lng": 135.5037,
+   "hours": "Burgers served at lunch; evening is a dry-aged steak restaurant",
+   "days": "Check before going",
+   "arrive": "Lunch",
+   "booking": "Recommended – seat reservations sold online",
+   "time": "1 h",
+   "notes": "About 5 min walk from Namba Station. Evening steak course runs ¥8,000–10,000.",
+   "ig": [
+    "Df5T_67psX-"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "labysse-osaka",
+   "cat": "food",
+   "sym": "🍣",
+   "name": "Sushi L'Abysse Osaka",
+   "order": "Omakase – go for the 17:30 sunset seating",
+   "price": 5,
+   "city": "Osaka",
+   "area": "Four Seasons Hotel Osaka, 37F",
+   "lat": 34.6975,
+   "lng": 135.496,
+   "hours": "Dinner seatings; sunset seating 17:30",
+   "days": "Check before going",
+   "arrive": "17:30 sunset seating (¥26,600 vs ¥38,000 later)",
+   "booking": "Required – book well ahead",
+   "time": "2–2.5 h",
+   "notes": "Yannick Alléno's sushi counter. Not kosher; no-pork / no-shellfish adjustments only if requested when booking. Drinks extra.",
+   "ig": [
+    "DfSLBKHzBwb"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "benitsuru",
+   "cat": "food",
+   "sym": "🥞",
+   "name": "Benitsuru",
+   "order": "Bacon & fried egg pancake",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Nishi-Asakusa – 2-1-11",
+   "lat": 35.7133,
+   "lng": 139.7905,
+   "hours": "10:00–17:00",
+   "days": "Irregular closing days",
+   "arrive": "8:30 – same-day numbered tickets handed out at the door (¥1,000 deposit)",
+   "booking": "Same-day ticket at 8:30; very hard to get",
+   "time": "1 h + waiting",
+   "notes": "A few minutes from Tawaramachi Station; 5 min from Tsukuba Express Asakusa. Cards accepted.",
+   "ig": [
+    "DdaKPvfhtCb",
+    "DNz4wwY4uF7"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "t-nakameguro",
+   "cat": "food",
+   "sym": "🥩",
+   "name": "T Nakameguro",
+   "order": "Course \"T\" – female Omi beef T-bone",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Nakameguro – Kamimeguro 2-37-12",
+   "lat": 35.6412,
+   "lng": 139.6965,
+   "hours": "Seatings 17:30 or 20:30 (lunch 12:00)",
+   "days": "Daily",
+   "arrive": "On time – the course starts for everyone together",
+   "booking": "Required – course only, about ¥20,000; cancellation fees apply",
+   "time": "2.5–3 h",
+   "notes": "Ranked among the world's best steak restaurants. Business-casual dress.",
+   "ig": [
+    "DZoJ6ryh_3t",
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "tsukiji",
+   "cat": "food",
+   "sym": "🐟",
+   "name": "Tsukiji Outer Market",
+   "order": "Tamagoyaki, tuna, uni and grilled seafood stalls",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Tsukiji",
+   "lat": 35.6654,
+   "lng": 139.7707,
+   "hours": "Most stalls about 6:00/7:00–14:00",
+   "days": "Many stalls close Sundays, holidays and some Wednesdays",
+   "arrive": "8:00–10:00",
+   "booking": "No",
+   "time": "1.5–2 h",
+   "notes": "Combine with Ginza (10 min walk). Eat at the stall, not while walking.",
+   "ig": [
+    "Danbh6-PBPV"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "yagura-hakata",
+   "cat": "food",
+   "sym": "🍱",
+   "name": "Yagura",
+   "order": "Special katsudon + udon set",
+   "price": 1,
+   "city": "Fukuoka",
+   "area": "Hakata – Hakataekimae 2-9-28 B1",
+   "lat": 33.5925,
+   "lng": 130.4155,
+   "hours": "11:30–19:00 (Sat until 17:00)",
+   "days": "Closed Sundays and public holidays",
+   "arrive": "11:30 at opening – queue forms fast",
+   "booking": "No",
+   "time": "30 min",
+   "notes": "Opened 1971. 7 min walk from Gion Station.",
+   "ig": [
+    "Dbu5Pv1T0gM"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "ginza-kagari",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "Ginza Kagari (main shop)",
+   "order": "Tori paitan soba (creamy chicken ramen)",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Ginza – 6-4-12",
+   "lat": 35.6711,
+   "lng": 139.7615,
+   "hours": "11:00–21:30; closes early if sold out",
+   "days": "Check before going",
+   "arrive": "Before 11:00 or 15:00–17:00",
+   "booking": "No – queue",
+   "time": "45 min incl. queue",
+   "notes": "5 min from Ginza Station.",
+   "ig": [
+    "DPqxM_1CYAZ"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "kappo-shishikura",
+   "cat": "food",
+   "sym": "🐟",
+   "name": "Kappo Shishikura",
+   "order": "\"Kagayaki\" bluefin trinity bowl (akami / chutoro / otoro)",
+   "price": 3,
+   "city": "Tokyo",
+   "area": "Ebisu",
+   "lat": 35.6467,
+   "lng": 139.7101,
+   "hours": "11:30–14:30, 18:00–24:00",
+   "days": "Open daily",
+   "arrive": "Lunch 11:30",
+   "booking": "Required – TableCheck",
+   "time": "1 h",
+   "notes": "Bowls ¥8,000; tuna + uni \"Emperor\" bowl ¥18,000. Pin is at Ebisu Station area – exact address to confirm.",
+   "ig": [
+    "DTczq9OifRj"
+   ],
+   "conf": "caption",
+   "approx": true,
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "maguro-mart",
+   "cat": "food",
+   "sym": "🐟",
+   "name": "Maguro Mart",
+   "order": "Maguro Mart platter + nakaochi (scrape tuna off the bone)",
+   "price": 3,
+   "city": "Tokyo",
+   "area": "Nakano – 5-50-3",
+   "lat": 35.7105,
+   "lng": 139.6655,
+   "hours": "Mon–Fri 17:00–22:00, Sat–Sun 16:00–23:00",
+   "days": "Open daily (evenings)",
+   "arrive": "17:00–18:00",
+   "booking": "Required – book about a month ahead",
+   "time": "2 h",
+   "notes": "8 min walk from Nakano Station; combine with Nakano Broadway (anime/figures).",
+   "ig": [
+    "DTN_xkJACNB"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "yurakucho-kakida",
+   "cat": "food",
+   "sym": "🍣",
+   "name": "Yurakucho Kakida",
+   "order": "All-you-can-eat omakase sushi",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Shinjuku South – Odakyu Southern Tower 19F",
+   "lat": 35.6862,
+   "lng": 139.6993,
+   "hours": "Weekday seatings 12:00 / 14:00 / 17:00 / 19:00 / 21:30",
+   "days": "Daily (weekend seatings 12:00 / 14:00 / 16:00)",
+   "arrive": "Your seating time",
+   "booking": "Required – often full months ahead",
+   "time": "1.5 h",
+   "notes": "About ¥12,000–13,000 + one drink minimum (¥1,000+). 3 min from Shinjuku South Exit. The post tagged it as a buffet \"5 min from Shinjuku\".",
+   "ig": [
+    "DOQ5sn_k1UP"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "shunyacchan",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "Yatai Ramen Shunyacchan",
+   "order": "Hachioji-style shoyu ramen with chopped onion",
+   "price": 1,
+   "city": "Tokyo (Hachioji)",
+   "area": "Takao – 350 m from Takao Station",
+   "lat": 35.632,
+   "lng": 139.2815,
+   "hours": "Evenings only",
+   "days": "Check before going",
+   "arrive": "After a Mt. Takao hike, from opening",
+   "booking": "Bookable on TableCheck",
+   "time": "45 min",
+   "notes": "Street-stall style ramen far west of central Tokyo – pair it with a Mt. Takao day.",
+   "ig": [
+    "DNz4wwY4uF7"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "ikura-shibuya",
+   "cat": "food",
+   "sym": "🍳",
+   "name": "Ikura (Hamburger & Omurice)",
+   "order": "Omurice + hamburg steak on the hot plate",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Shibuya – Maruyama-cho 5-3",
+   "lat": 35.6575,
+   "lng": 139.6955,
+   "hours": "Check before going",
+   "days": "Check before going",
+   "arrive": "Opening time – there is usually a line",
+   "booking": "Check before going",
+   "time": "45 min",
+   "notes": "Live teppan cooking at the counter.",
+   "ig": [
+    "DNz4wwY4uF7"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "hanayama-udon",
+   "cat": "food",
+   "sym": "🍜",
+   "name": "Godaime Hanayama Udon (Ginza)",
+   "order": "Oni-kama – extra-wide himokawa udon",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Higashi-Ginza – 3-14-13, behind Kabukiza",
+   "lat": 35.6713,
+   "lng": 139.769,
+   "hours": "From 11:00 (lunch and dinner)",
+   "days": "Closed New Year holidays only",
+   "arrive": "10:40, before the 11:00 opening",
+   "booking": "No – 1–2 h queues at peak",
+   "time": "30 min + queue",
+   "notes": "Shorter line at the Nihonbashi branch.",
+   "ig": [
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "gyoza-ro",
+   "cat": "food",
+   "sym": "🥟",
+   "name": "Harajuku Gyoza Ro",
+   "order": "Pan-fried + steamed gyoza with garlic",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Harajuku – Jingumae 6-2-4",
+   "lat": 35.6688,
+   "lng": 139.7065,
+   "hours": "11:00–22:00",
+   "days": "Daily",
+   "arrive": "Off-peak 15:00–17:00",
+   "booking": "No",
+   "time": "30 min",
+   "notes": "Two-item menu, very cheap. Combine with Cat Street.",
+   "ig": [
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "hikiniku-kyoto",
+   "cat": "food",
+   "sym": "🍔",
+   "name": "Hikiniku to Come Kyoto",
+   "order": "Charcoal-grilled hamburg set (fresh minced wagyu)",
+   "price": 2,
+   "city": "Kyoto",
+   "area": "Higashiyama – 363 Kiyomotocho (Gion Shirakawa)",
+   "lat": 35.0055,
+   "lng": 135.7745,
+   "hours": "11:00–15:00, 17:00–21:00",
+   "days": "Closed Wednesdays",
+   "arrive": "9:00 for same-day in-store registration",
+   "booking": "Online slots 7 days ahead (free) or paid priority ticket",
+   "time": "1 h + wait",
+   "notes": "Registration is not a seat guarantee – expect some wait. Also in Shibuya and Kichijoji (Tokyo).",
+   "ig": [
+    "DSaeiCIiLMz"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "bar-centifolia",
+   "cat": "nightlife",
+   "sym": "🍸",
+   "name": "BAR CENTIFOLIA",
+   "type": "Theatrical cocktail bar",
+   "crowd": "Foreigner-oriented (heavily on social media)",
+   "price": 4,
+   "city": "Tokyo",
+   "area": "Azabu-Juban – 1-6-5, 6F",
+   "lat": 35.6555,
+   "lng": 139.7365,
+   "hours": "20:30–03:00",
+   "days": "Closed Wednesdays and Sundays",
+   "arrive": "20:30 at opening for walk-ins; late 00:00–02:00 slots are kept for walk-ins",
+   "bestDays": "Mon, Tue, Thu–Sat",
+   "booking": "Strongly recommended – non-refundable reservation fee (table ¥10,000 / counter ¥35,000 pp)",
+   "time": "2 h (bookings are 120 min)",
+   "charge": "¥1,000 per person + 10% tax; cocktails from ¥4,000",
+   "smoking": "Smoking allowed inside",
+   "dress": "Smart casual",
+   "notes": "The post says closed only Wednesdays – the bar's own booking page now says Wednesdays and Sundays.",
+   "ig": [
+    "DZPz2WZqxC6",
+    "DNz4wwY4uF7"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "ine-funaya",
+   "cat": "attractions",
+   "sym": "🏘️",
+   "name": "Ine Funaya fishing village",
+   "type": "Traditional village / scenery",
+   "recDay": "Weekday, clear day",
+   "price": 1,
+   "city": "Ine (Kyoto Prefecture)",
+   "area": "Tango Peninsula",
+   "lat": 35.675,
+   "lng": 135.29,
+   "hours": "Village always open; boat tours about 9:00–16:00",
+   "days": "Any day",
+   "arrive": "Morning, to stay into late afternoon light",
+   "booking": "No (boat tour on the spot)",
+   "time": "Half day (+2 h drive each way)",
+   "season": "All year; spring–autumn best",
+   "notes": "About 2 h from Kyoto or Osaka. Rental car is the easiest – needs an International Driving Permit.",
+   "ig": [
+    "DTFC3K-iCYI"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "chureito",
+   "cat": "attractions",
+   "sym": "🗻",
+   "name": "Arakurayama Sengen Park – Chureito Pagoda",
+   "type": "Viewpoint (Mt. Fuji + pagoda)",
+   "recDay": "Clear-sky morning",
+   "price": 1,
+   "city": "Fujiyoshida",
+   "area": "Fuji Five Lakes",
+   "lat": 35.5011,
+   "lng": 138.8013,
+   "hours": "Park open 24 h",
+   "days": "Any day",
+   "arrive": "Sunrise to 8:00 – Fuji hides in cloud later",
+   "booking": "No",
+   "time": "1.5 h (398 steps up)",
+   "season": "Late Mar–early Apr cherry blossoms; winter clearest Fuji",
+   "notes": "Fuji is fully visible only around 80 days a year – check the forecast.",
+   "ig": [
+    "DS9Si9TCbbF"
+   ],
+   "conf": "caption",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "fujiq-naruto",
+   "cat": "attractions",
+   "sym": "🎢",
+   "name": "Fuji-Q Highland – Naruto × Boruto village",
+   "type": "Theme park / anime",
+   "recDay": "Weekday",
+   "price": 3,
+   "city": "Fujiyoshida",
+   "area": "Fuji Five Lakes – 5-6-1 Shin-Nishihara",
+   "lat": 35.4863,
+   "lng": 138.7798,
+   "hours": "About 9:00/10:00–17:00/18:00 (seasonal)",
+   "days": "Check the park calendar",
+   "arrive": "At opening",
+   "booking": "Buy day passes online",
+   "time": "Half to full day",
+   "season": "All year",
+   "notes": "Ichiraku ramen and character meet-ups in the Naruto area. Pairs with Chureito Pagoda (10 min away). Confirm the Naruto area is still running before going.",
+   "ig": [
+    "DODyJLKCZZ0"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "nijigen-naruto",
+   "cat": "attractions",
+   "sym": "🥷",
+   "name": "Nijigen no Mori – NARUTO & BORUTO Shinobi-Zato",
+   "type": "Anime theme park (ninja missions)",
+   "recDay": "Weekday",
+   "price": 2,
+   "city": "Awaji Island (Hyogo)",
+   "area": "Kusumoto, Awaji City",
+   "lat": 34.539,
+   "lng": 134.993,
+   "hours": "10:00–22:00 (last entry 20:00); seasonal",
+   "days": "Daily",
+   "arrive": "10:00",
+   "booking": "Buy tickets online – Light ticket from ¥3,300",
+   "time": "2–3 h",
+   "season": "All year",
+   "notes": "Express bus \"Kakehashi Naruto\" from Osaka/Kobe. No filming during the finale.",
+   "ig": [
+    "DTfAFFBDnxy"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "matsumoto-castle",
+   "cat": "attractions",
+   "sym": "🏯",
+   "name": "Matsumoto Castle",
+   "type": "Original castle",
+   "recDay": "Day 1 of the Alps route",
+   "price": 1,
+   "city": "Matsumoto",
+   "area": "Nagano – Japan Alps",
+   "lat": 36.2381,
+   "lng": 137.969,
+   "hours": "8:30–17:00 (last entry 16:30)",
+   "days": "Daily (closed Dec 29–31)",
+   "arrive": "8:30 at opening",
+   "booking": "No",
+   "time": "1.5 h",
+   "season": "All year; cherry blossom early–mid April",
+   "notes": "Part of the 5-day Alps route from the post: Matsumoto ×2 nights, then Takayama ×2.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "daio-wasabi",
+   "cat": "attractions",
+   "sym": "🌿",
+   "name": "Daio Wasabi Farm",
+   "type": "Farm / scenery",
+   "recDay": "Day 1, with Matsumoto",
+   "price": 1,
+   "city": "Azumino",
+   "area": "Near Matsumoto",
+   "lat": 36.3395,
+   "lng": 137.893,
+   "hours": "About 9:00–17:00 (shorter in winter)",
+   "days": "Daily",
+   "arrive": "Morning",
+   "booking": "No – free entry",
+   "time": "1.5 h",
+   "season": "Spring–autumn",
+   "notes": "Try the wasabi soft-serve.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "nakasendo",
+   "cat": "attractions",
+   "sym": "🥾",
+   "name": "Nakasendo trail – Magome to Tsumago",
+   "type": "Historic hike",
+   "recDay": "Day 2 of the Alps route",
+   "price": 1,
+   "city": "Kiso Valley",
+   "area": "Magome (Gifu) – Tsumago (Nagano)",
+   "lat": 35.5268,
+   "lng": 137.565,
+   "hours": "Daylight",
+   "days": "Any day",
+   "arrive": "Start by 10:00 in Magome",
+   "booking": "No; luggage forwarding between the two towns runs in season",
+   "time": "3 h walk (8 km)",
+   "season": "Apr–Nov",
+   "notes": "Start in Magome – mostly downhill toward Tsumago.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "kamikochi",
+   "cat": "attractions",
+   "sym": "🏔️",
+   "name": "Kamikochi",
+   "type": "Alpine nature reserve",
+   "recDay": "Day 3 of the Alps route",
+   "price": 1,
+   "city": "Matsumoto (Azumi)",
+   "area": "Northern Alps",
+   "lat": 36.25,
+   "lng": 137.638,
+   "hours": "Buses from early morning; last buses out late afternoon",
+   "days": "Open only mid-April to mid-November",
+   "arrive": "First bus",
+   "booking": "No (private cars banned – bus or taxi in)",
+   "time": "Full day",
+   "season": "Mid-Apr to mid-Nov only; autumn colours mid-Oct",
+   "notes": "Closed in winter – plan the Alps leg between April and November.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "takayama",
+   "cat": "attractions",
+   "sym": "🏮",
+   "name": "Takayama old town (Sanmachi-suji)",
+   "type": "Historic town",
+   "recDay": "Days 4–5 of the Alps route",
+   "price": 1,
+   "city": "Takayama",
+   "area": "Gifu – Hida",
+   "lat": 36.1405,
+   "lng": 137.26,
+   "hours": "Shops about 9:00–17:00; morning markets 7:00–12:00",
+   "days": "Daily",
+   "arrive": "7:00 for the Miyagawa morning market",
+   "booking": "No",
+   "time": "Full day",
+   "season": "All year; festivals mid-April and early October",
+   "notes": "Try Hida beef sushi. The post suggests a relaxing hotel here.",
+   "ig": [
+    "DZHcVdKgO4m"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "beppu",
+   "cat": "attractions",
+   "sym": "♨️",
+   "name": "Beppu – Hells (Jigoku) & onsen town",
+   "type": "Hot springs",
+   "recDay": "Any – mornings are quieter",
+   "price": 2,
+   "city": "Beppu",
+   "area": "Oita, Kyushu",
+   "lat": 33.316,
+   "lng": 131.473,
+   "hours": "Hells about 8:00–17:00",
+   "days": "Daily",
+   "arrive": "8:00–9:00",
+   "booking": "No (common ticket for 7 hells)",
+   "time": "1–2 days",
+   "season": "Autumn–winter for onsen",
+   "notes": "From the idan_gigi post – he offers Google Maps locations on request. Tattoo rules vary by bath.",
+   "ig": [
+    "DUyqHvuEycq"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "sensoji",
+   "cat": "attractions",
+   "sym": "⛩️",
+   "name": "Senso-ji & Asakusa old town",
+   "type": "Temple / street food",
+   "recDay": "Weekday early morning",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Asakusa",
+   "lat": 35.7148,
+   "lng": 139.7967,
+   "hours": "Temple grounds always open; Nakamise shops about 10:00–17:00",
+   "days": "Daily",
+   "arrive": "Before 8:00 for empty photos; 10:00 for street food",
+   "booking": "No",
+   "time": "2 h",
+   "season": "All year",
+   "notes": "From the Tokyo first-timer post. Age.3 and Benitsuru are nearby.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "chopsticks-studio",
+   "cat": "other",
+   "sym": "🥢",
+   "name": "Chopsticks Studio Shinjuku",
+   "type": "Craft workshop – make your own chopsticks",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Kabukicho – 1-5-4",
+   "lat": 35.6935,
+   "lng": 139.704,
+   "hours": "Bookable time slots",
+   "days": "Check booking page",
+   "arrive": "Your slot",
+   "booking": "Required – Klook (code LOCALOU from the post)",
+   "time": "35–60 min",
+   "notes": "About ¥2,000; free laser engraving of a name or date; English-speaking staff.",
+   "ig": [
+    "Dc3cqY4pVuw"
+   ],
+   "conf": "checked",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "cat-street",
+   "cat": "shopping",
+   "sym": "🛍️",
+   "name": "Cat Street",
+   "type": "Street – boutiques & streetwear",
+   "price": 3,
+   "city": "Tokyo",
+   "area": "Harajuku – Omotesando",
+   "lat": 35.668,
+   "lng": 139.7055,
+   "hours": "Shops about 11:00–20:00",
+   "days": "Daily; weekends crowded",
+   "arrive": "11:00–13:00",
+   "booking": "No",
+   "time": "2 h",
+   "notes": "From the Tokyo first-timer post.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "uniqlo-ginza",
+   "cat": "shopping",
+   "sym": "🛍️",
+   "name": "UNIQLO Ginza flagship",
+   "type": "12-floor flagship store",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Ginza – 6-9-5",
+   "lat": 35.6705,
+   "lng": 139.764,
+   "hours": "11:00–21:00",
+   "days": "Daily",
+   "arrive": "Weekday morning",
+   "booking": "No – tax-free with passport",
+   "time": "1 h",
+   "notes": "Ginza also has MUJI and other brand flagships. Combine with Tsukiji.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "shimokitazawa",
+   "cat": "shopping",
+   "sym": "🛍️",
+   "name": "Shimokitazawa",
+   "type": "Neighbourhood – vintage / second-hand",
+   "price": 2,
+   "city": "Tokyo",
+   "area": "Setagaya",
+   "lat": 35.6615,
+   "lng": 139.668,
+   "hours": "Shops about 12:00–20:00",
+   "days": "Daily",
+   "arrive": "From 12:00 (shops open late)",
+   "booking": "No",
+   "time": "3 h",
+   "notes": "Young, hipster area – from the Tokyo first-timer post.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  },
+  {
+   "id": "kichijoji",
+   "cat": "attractions",
+   "sym": "🌳",
+   "name": "Kichijoji & Inokashira Park",
+   "type": "Neighbourhood + park",
+   "recDay": "Weekday",
+   "price": 1,
+   "city": "Tokyo",
+   "area": "Musashino",
+   "lat": 35.7,
+   "lng": 139.58,
+   "hours": "Park always open",
+   "days": "Daily",
+   "arrive": "Late morning",
+   "booking": "No",
+   "time": "Half day",
+   "season": "Cherry blossom late March; autumn leaves",
+   "notes": "Few tourists. Ghibli Museum is nearby (tickets sold monthly, in advance). Hikiniku to Come has a branch here.",
+   "ig": [
+    "DO0z9HHiMN-"
+   ],
+   "conf": "estimate",
+   "plan": {
+    "day": null,
+    "order": null
+   }
+  }
+ ],
+ "review": [
+  {
+   "code": "mooken-osaka",
+   "ig": "DSaeiCIiLMz",
+   "what": "\"MookEN (Osaka)\" – #9 in a top-10 list",
+   "guess": "Couldn't identify the restaurant. Do you know it, or should I watch for the full video?"
+  },
+  {
+   "code": "DRilWpckVya",
+   "ig": "DRilWpckVya",
+   "what": "\"Best unagi bowl in Tokyo\" (jacksdiningroom clip)",
+   "guess": "Restaurant name is only in the video. Tell me the name, or I'll leave it out."
+  },
+  {
+   "code": "DSip6ijj0Nl",
+   "ig": "DSip6ijj0Nl",
+   "what": "\"Best meal I've ever had\" – sushi, Tokyo",
+   "guess": "No restaurant named in the caption – only in the video."
+  },
+  {
+   "code": "DSiHn55jPyg",
+   "ig": "DSiHn55jPyg",
+   "what": "Anime attraction with a Mt. Fuji view (Hebrew post)",
+   "guess": "Most likely Fuji-Q Highland's Naruto area, already on the map. Confirm?"
+  },
+  {
+   "code": "DNEoL8ohTR7",
+   "ig": "DNEoL8ohTR7",
+   "what": "14 days in Japan route (favourite: Okinawa)",
+   "guess": "Spots are only in the video / a DM map. Want Okinawa as a pin?"
+  },
+  {
+   "code": "DR-wD-0jIfG",
+   "ig": "DR-wD-0jIfG",
+   "what": "\"Where should I eat in Tokyo?\" – question post",
+   "guess": "No place. Probably the comments – skip?"
+  },
+  {
+   "code": "DR2HCS4jjnw",
+   "ig": "DR2HCS4jjnw",
+   "what": "\"Should I make a tour video of this place\"",
+   "guess": "No place named."
+  },
+  {
+   "code": "Dbfw4H0Rqim",
+   "ig": "Dbfw4H0Rqim",
+   "what": "\"Welp\" (jordan_the_stallion8)",
+   "guess": "No text at all – what's the place?"
+  },
+  {
+   "code": "DU4EY7sEhlN",
+   "ig": "DU4EY7sEhlN",
+   "what": "\"Bearology\" potty-themed food (califoodventure)",
+   "guess": "Looks like a US place, not Japan – remove from the collection?"
+  },
+  {
+   "code": "DaVZoCohkxn",
+   "ig": "DaVZoCohkxn",
+   "what": "AI Dragon Ball 4DX concept video",
+   "guess": "Not a real place – remove from the collection?"
+  }
+ ],
+ "tips": [
+  {
+   "cat": "transport",
+   "title": "International Driving Permit",
+   "text": "Get an International Driving Permit before the flight – needed for any car rental (e.g. Ine village, Alps).",
+   "ig": "Dd1dJJ1S5gJ"
+  },
+  {
+   "cat": "other",
+   "title": "Apps & services for the trip",
+   "text": "eSIM (the post pushes 7G), Klook for attractions / rail tickets / tours, travel insurance. DM-based discount offers – compare prices yourself.",
+   "ig": "DXeUzKViHHg"
+  },
+  {
+   "cat": "stay",
+   "title": "Where to stay in Tokyo",
+   "text": "Shibuya or Shinjuku, close to a train station. Shibuya has more nightlife; Shinjuku has cheaper hotels. Direct El Al flight about 12 h – book ~10 months ahead for price.",
+   "ig": "DO0z9HHiMN-"
+  },
+  {
+   "cat": "attractions",
+   "title": "5-day Japan Alps route",
+   "text": "2 nights Matsumoto (castle, art museum, wasabi farm; day trip to Kiso Valley / Nakasendo), then 2 nights Takayama (Kamikochi day). All stops are pinned.",
+   "ig": "DZHcVdKgO4m"
+  },
+  {
+   "cat": "other",
+   "title": "Itinerary ad (Tokyo, Kyoto, Fuji)",
+   "text": "Promo for a paid community – no concrete places.",
+   "ig": "DgAUga5gvrk"
+  }
+ ],
+ "schema": "place: id, cat, sym, name, order|type, price(1-5), city, area, lat, lng, hours, days, arrive, booking, time, season, recDay, crowd, charge, smoking, dress, req, luggage, lastDep, station, checkin, room, onsen, notes, ig[], conf(checked|caption|estimate), approx, plan{day, order}"
+}
