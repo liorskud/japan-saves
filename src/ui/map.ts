@@ -31,7 +31,7 @@ export function initMap(el: HTMLElement, pick: (id: string) => void) {
   map.on('load', () => {
     map.addSource('places', { type: 'geojson', data: empty(), cluster: true, clusterRadius: 44, clusterMaxZoom: 14 });
     map.addLayer({ id: 'clusters', type: 'circle', source: 'places', filter: ['has', 'point_count'],
-      paint: { 'circle-color': '#1f1d1a', 'circle-radius': ['step', ['get', 'point_count'], 16, 5, 20, 15, 25], 'circle-stroke-color': '#fff', 'circle-stroke-width': 2 } });
+      paint: { 'circle-color': '#c8382a', 'circle-radius': ['step', ['get', 'point_count'], 16, 5, 20, 15, 25], 'circle-stroke-color': '#fff', 'circle-stroke-width': 2 } });
     map.addLayer({ id: 'cluster-count', type: 'symbol', source: 'places', filter: ['has', 'point_count'],
       layout: { 'text-field': ['get', 'point_count_abbreviated'], 'text-size': 13, 'text-font': ['Noto Sans Bold'] }, paint: { 'text-color': '#fff' } });
     map.addLayer({ id: 'pins', type: 'circle', source: 'places', filter: ['!', ['has', 'point_count']],
